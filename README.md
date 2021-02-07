@@ -9,3 +9,6 @@ Technology used:
 4. Html
 5. Css
 6. JavaScript
+
+For running using following url:
+http://localhost:8080/springmvc.search/home
